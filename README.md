@@ -18,7 +18,7 @@ Smart launching of .py files
 
 ---
 
-## 🚀 Quick Start Guide
+## Quick Start Guide
 
 ### 1. Installation
 
