@@ -1,6 +1,20 @@
 # Python Management Automation Scripts
 
-A collection of Windows Batch scripts designed to streamline the installation of the **uv** package manager, manage Python environments, and run scripts with automatic dependency syncing.
+Beginner-Friendly collection of Windows Batch scripts designed to setup python easily and run .py scripts easily.
+
+Setup :
+Just run 00_ and 01_ scripts, then the system should have uv and uv-python in place (this is a one-time activity only)
+
+Usage :
+Put the 03_ in the folder you have your .py code and its associated requirements.txt, and just run the 03_ script.
+
+Benefits :
+Highly Beginner Friendly
+No polluting your environment
+Fully automatic setup of uv and uv-python
+Fully automatic setup of virtual environment
+Fully automatic package installation (and sync) with requirements.txt
+Smart launching of .py files
 
 ---
 
@@ -21,7 +35,10 @@ A collection of Windows Batch scripts designed to streamline the installation of
 
 ### 3. Running Scripts
 
-These scripts search for `.py` files in the current directory. If a single file is detected it is run directly. If multiple files exist, you can choose one; if no files are found, a file picker will open.
+These scripts search for `.py` files in the current directory. 
+If a single file is detected it is run directly. 
+If multiple files exist, you can choose one from alphabetically sorted list.
+If no files are found, a file picker will open.
 
 * **Standard Mode**: (Checks venv and syncs `requirements.txt` first)
 * `03_managed_python_run_only.bat`: Runs the script and exits.
