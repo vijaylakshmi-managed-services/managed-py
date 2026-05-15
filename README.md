@@ -1,4 +1,4 @@
-# UV Managed Python Automation Scripts
+# Python Management Automation Scripts
 
 A collection of Windows Batch scripts designed to streamline the installation of the **uv** package manager, manage Python environments, and run scripts with automatic dependency syncing.
 
