@@ -6,7 +6,7 @@ Setup :
 Just run 00_ and 01_ scripts, then the system should have uv and uv-python in place (this is a one-time activity only)
 
 Usage :
-Put the 03_ in the folder you have your .py code and its associated requirements.txt, and just run the 03_ script.
+Put the 03_ script in the folder where you have your .py code and its associated requirements.txt, and just run the 03_ script.
 
 Benefits :
 Highly Beginner Friendly
