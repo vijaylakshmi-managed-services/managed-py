@@ -1,4 +1,4 @@
-# Python Management Automation Scripts
+# Make Python Easy - Automation Scripts
 
 Beginner-Friendly collection of Windows Batch scripts designed to setup python easily and run .py scripts easily.
 
