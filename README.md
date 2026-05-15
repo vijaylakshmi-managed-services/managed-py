@@ -57,7 +57,7 @@ If no files are found, a file picker will open.
 
 ---
 
-## 🛠 Features
+## Features
 
 | Feature | Description |
 | --- | --- |
